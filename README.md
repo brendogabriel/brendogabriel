@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <h3>🚀 Minha Stack de Tecnologias</h3>
+  <h3>🚀 Minha Stack de Estudo</h3>
   <br>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" style="margin: 20px;" />
