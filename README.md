@@ -1,8 +1,8 @@
 # Olá! Sou o Brendo Gabriel 👋
 
 ### 👨‍💻 Sobre mim
-* 🎓 Graduando em Engenharia de Software (3º período) na Universidade Positivo.
-* ☁️ Focado em iniciar minha carreira em **Infraestrutura, Cloud (AWS) e Suporte Técnico**.
+* 🎓 Graduando em Engenharia de Software na Universidade Positivo.
+* ☁️ Carreira focada em **Infraestrutura, Cloud (AWS) e Suporte Técnico**.
 * 🛠️ Tenho experiência prática com manutenção de hardware, sistemas operacionais (Windows/Linux) e troubleshooting.
 * 📚 Atualmente desenvolvendo projetos de automação e provisionamento, e estudando para a certificação **AWS Certified Solutions Architect Associate**.
 
