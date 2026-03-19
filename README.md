@@ -30,10 +30,15 @@
 
 <div align="center">
   <h3>📫 Como me encontrar</h3>
+  <br>
 
   <a href="https://www.linkedin.com/in/brendo-gabriel" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;">
   </a>
-  <a href="mailto:Brendogoamarketing@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://wa.me/5541995184529" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin: 5px;">
   </a>
+  <a href="mailto:Brendogoamarketing@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;">
+  </a>
+</div>
