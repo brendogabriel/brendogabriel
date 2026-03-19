@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Olá! Sou o Brendo Gabriel 👋</h2>
-  <p><em>Estudante de Engenharia de Software | Infraestrutura, Cloud & Automação</em></p>
+  <p><em>Estudante de Engenharia de Software | Focado em Infraestrutura, Cloud & Automação</em></p>
 </div>
 
 ---
