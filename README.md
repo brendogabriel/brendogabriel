@@ -27,3 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50" style="margin: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original.svg" width="50" height="50" style="margin: 20px;" />
 </div>
+
+<div align="center">
+  <h3>📫 Como me encontrar</h3>
+
+  <a href="https://www.linkedin.com/in/brendo-gabriel" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:Brendogoamarketing@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
