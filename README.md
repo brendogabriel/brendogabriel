@@ -10,9 +10,11 @@
 
 ## Sobre mim
 
-Atualmente estudo e desenvolvo habilidades em infraestrutura, cloud computing e automação, com foco em ambientes Linux, AWS, infraestrutura como código, containers e virtualização.
+Sou estudante de Engenharia de Software e estagiário de Infraestrutura de TI.
 
-Meu objetivo é construir soluções mais confiáveis, automatizadas e escaláveis para ambientes de TI.
+estudo cloud computing, automação e infraestrutura como código.
+
+Tenho interesse em construir soluções práticas com AWS, Terraform, Docker, Kubernetes, Linux, Bash e Python, conectando minha base em suporte e infraestrutura com tecnologias voltadas para cloud e DevOps.
 
 ---
 
