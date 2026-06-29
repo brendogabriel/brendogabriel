@@ -40,20 +40,6 @@ Meu objetivo é construir soluções mais confiáveis, automatizadas e escaláve
 
 ---
 
-## Áreas de interesse
-
-- Infraestrutura em nuvem
-- AWS
-- Linux
-- Terraform
-- Docker
-- Kubernetes
-- Bash scripting
-- Automação de ambientes
-- Virtualização com Hyper-V
-
----
-
 ## Contato
 
 <div align="center">
