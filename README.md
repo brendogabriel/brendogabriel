@@ -42,6 +42,13 @@ Tenho interesse em construir soluções práticas com AWS, Terraform, Docker, Ku
 
 ---
 
+## Certificações
+
+AWS Certified Solutions Architect – Associate
+Em preparação: HashiCorp Certified: Terraform Associate
+
+---
+
 ## Contato
 
 <div align="center">
