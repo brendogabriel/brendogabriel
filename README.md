@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Brendo Gabriel 👋
 
-**Infraestrutura | Computação em Nuvem**
+**Infraestrutura & Computação em Nuvem**
 
 </div>
 
