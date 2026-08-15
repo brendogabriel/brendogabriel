@@ -62,7 +62,7 @@ Em preparação: HashiCorp Certified: Terraform Associate
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
-<a href="mailto:Brendogoamarketing@gmail.com" target="_blank">
+<a href="mailto:Brendo.Technology@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
