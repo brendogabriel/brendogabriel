@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Brendo Gabriel 👋
 
-**Infraestrutura | Computação em Nuvem | Automação**
+**Infraestrutura | Computação em Nuvem**
 
 </div>
 
@@ -14,7 +14,7 @@ Sou estudante de Engenharia de Software e estagiário de Infraestrutura de TI.
 
 estudo cloud computing, automação e infraestrutura como código.
 
-Tenho interesse em construir soluções práticas com AWS, Terraform, Docker, Kubernetes, Linux, Bash e Python, conectando minha base em suporte e infraestrutura com tecnologias voltadas para cloud e DevOps.
+Tenho interesse em construir soluções práticas com AWS, Terraform, Docker, Kubernetes, Linux, Bash e Python, conectando minha base em suporte e infraestrutura com tecnologias voltadas para cloud e infraestrutura.
 
 ---
 
